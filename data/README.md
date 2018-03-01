@@ -1,1 +1,1 @@
-### Save the uncompressed MIMIC-III files in this folder.
+### Save the compressed MIMIC-III files in this folder.
